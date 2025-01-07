@@ -69,7 +69,7 @@ const CreatePage = () => {
           <div className="text-sm text-muted-foreground">
             Enter the URL of your repository to link it to GR Analyser
           </div>
-        </div> j 
+        </div> 
         <div className="h-4"></div>
         <div>
           <form onSubmit={handleSubmit(onSubmit)}>
